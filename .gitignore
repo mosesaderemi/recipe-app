@@ -1,0 +1,24 @@
+mobile/assets/images/screenshot-for-readme.png
+
+# Added for publishing
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+*.swp
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+node_modules/
+dist/
+build/
+.next/
+.expo/
+.turbo/
+coverage/
+npm-debug.log*
+yarn-error.log*
